@@ -1,0 +1,94 @@
+*{
+    margin:0px;
+    padding: 0ox;
+    
+
+}
+body{
+    /*font-family: 'Times New Roman', Times, serif;
+    background-color: black;*/
+}
+
+header,footer{
+    position: absolute;
+    background-color: rgb(42, 241, 248);
+    width: 100%;
+
+}
+.top{
+    background-color: rgb(95, 104, 235);
+    height: 40%;
+    width: 100%;
+  }
+  .top i{
+    color: white;
+    margin-left: 40px;
+    margin-top: 1%;
+    margin-bottom: 3%;
+  }
+  .top a{
+    margin-left: 60%;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+    
+  }
+header h2{
+    position: absolute;
+    margin-top: 20px;
+    left:10px;
+}
+header{
+    height: 20vh;
+}
+.nav{
+    position: absolute;
+    width:140%;
+    
+}
+
+
+.nav a:hover{
+    color: chartreuse;
+}
+
+
+
+.nav a{
+position: relative;
+left: 35%;
+top: 20px;
+color: black;
+text-decoration: none;
+margin-right: 50px;
+text-transform: uppercase;
+
+}
+.nav p{
+    left: 40%;
+    position: relative;
+    text-transform: uppercase;
+    font-size: x-large;
+}
+
+.nav2{
+    background-color: rgb(0, 0, 0);
+    margin-top: 75px;
+    width: 100%;
+    height: 40%;
+    
+}
+.nav2 a:hover{
+    color: red;
+    
+}
+.nav2 a{
+position: relative;
+left: 5%;
+top: 20px;
+color: rgb(77, 155, 201);
+text-decoration: none;
+margin-right: 80px;
+text-transform: uppercase;
+}
+ 
